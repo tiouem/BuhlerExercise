@@ -1,0 +1,7 @@
+﻿Buhler.Tests/bin
+Buhler.Tests/obj/Debug
+Buhler.Tests/obj
+BuhlerApi/bin
+BuhlerApi/obj
+.idea/.idea.Buhler/Docker/docker-compose.generated.override.yml
+.idea

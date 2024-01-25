@@ -1,0 +1,6 @@
+﻿services:
+  buhlerapi:
+    image: buhlerapi
+    build:
+      context: .
+      dockerfile: BuhlerApi/Dockerfile

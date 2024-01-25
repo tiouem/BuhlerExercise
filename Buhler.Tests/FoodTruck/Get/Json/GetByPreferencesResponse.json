@@ -1,0 +1,47 @@
+{
+  "numberOfResults": 6,
+  "foodTrucks": [
+    {
+      "locationId": 1729534,
+      "applicant": "Senor Sisig",
+      "locationDescription": "BROADWAY: DAVIS ST to FRONT ST (50 - 99)",
+      "address": "90 BROADWAY",
+      "foodItems": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.Chairman Bao: Vegetable and meat sandwiches filled with Asian-flavored meats and vegetables."
+    },
+    {
+      "locationId": 1733728,
+      "applicant": "MOMO INNOVATION LLC",
+      "locationDescription": "CALIFORNIA ST: BATTERY ST to SANSOME ST (300 - 399)",
+      "address": "351 CALIFORNIA ST",
+      "foodItems": "Noodles: Meat & Drinks"
+    },
+    {
+      "locationId": 1733798,
+      "applicant": "MOMO INNOVATION LLC",
+      "locationDescription": "MISSION ST: ANNIE ST to 03RD ST (663 - 699)",
+      "address": "667 MISSION ST",
+      "foodItems": "Noodles: Meat & Drinks"
+    },
+    {
+      "locationId": 1660844,
+      "applicant": "El Alambre",
+      "locationDescription": "FRANKLIN ST: MYRTLE ST to GEARY BLVD (1150 - 1199)",
+      "address": "1188 FRANKLIN ST",
+      "foodItems": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
+    },
+    {
+      "locationId": 1660843,
+      "applicant": "El Alambre",
+      "locationDescription": "FRANKLIN ST: OFARRELL ST \\ STARR KING WAY to MYRTLE ST (1100 - 1149)",
+      "address": "1100 FRANKLIN ST",
+      "foodItems": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
+    },
+    {
+      "locationId": 1729535,
+      "applicant": "Senor Sisig",
+      "locationDescription": "10TH ST: FELL ST \\ MARKET ST \\ POLK ST to STEVENSON ST (1 - 18)",
+      "address": "8 10TH ST",
+      "foodItems": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.Chairman Bao: Vegetable and meat sandwiches filled with Asian-flavored meats and vegetables."
+    }
+  ]
+}
